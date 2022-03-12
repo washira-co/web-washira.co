@@ -1,0 +1,23 @@
+{
+  "name": "washira.co",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eiichi-worker/washira.co.git",
+  "author": "Eiichi <8284623+eiichi-worker@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "nuxt3": "3.0.0-27447229.20f3171",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0"
+  },
+  "volta": {
+    "node": "16.14.0",
+    "yarn": "1.22.17"
+  }
+}
