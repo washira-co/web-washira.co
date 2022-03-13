@@ -28,7 +28,11 @@
     </div>
 
     <div>
-      <h2>メンバー<small>Members</small></h2>
+      <h2>正社員的なメンバー<small>Members</small></h2>
+      <div></div>
+      <h2>パート的なメンバー<small>Members</small></h2>
+      <div></div>
+      <h2>社員/出資者、経営者的なメンバー<small>Members</small></h2>
       <div>
         <h3>藤本 永一 <small>代表社員 / プロダクトエンジニア</small></h3>
         <img src="/img/members/001-001.png" width="150" />
@@ -37,13 +41,17 @@
         </p>
         <ul>
           <li>
-            <a href="https://github.com/eiichi-worker" target="_blank">GitHub</a>
+            <a href="https://github.com/eiichi-worker" target="_blank"
+              >GitHub</a
+            >
           </li>
           <li>
             <a href="https://twitter.com/EiichiCat" target="_blank">Twitter</a>
           </li>
         </ul>
       </div>
+      <h2>サポート的なメンバー<small>Members</small></h2>
+      <div></div>
     </div>
   </div>
 </template>
