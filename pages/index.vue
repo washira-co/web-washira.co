@@ -22,7 +22,7 @@
       <h2>事業内容<small>Works</small></h2>
       <ul>
         <li>猫を幸せにする事業</li>
-        <li>IT部門丸投げ事業</li>
+        <li>IT部門委託事業</li>
         <li>IT部門内製化支援事業</li>
       </ul>
     </div>
