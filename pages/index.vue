@@ -53,6 +53,14 @@
       <h2>サポート的なメンバー<small>Members</small></h2>
       <div></div>
     </div>
+
+    <div>
+      <h2>SNS<small>sns</small></h2>
+      <ul>
+        <li>[linkedin](https://www.linkedin.com/company/washira)</li>
+        <li>[twitter](https://twitter.com/washira_co)</li>
+      </ul>
+    </div>
   </div>
 </template>
 
