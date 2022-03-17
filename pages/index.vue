@@ -48,7 +48,9 @@
         </p>
         <ul>
           <li>
-            <a href="https://github.com/eiichi-worker" target="_blank">GitHub</a>
+            <a href="https://github.com/eiichi-worker" target="_blank"
+              >GitHub</a
+            >
           </li>
           <li>
             <a href="https://twitter.com/EiichiCat" target="_blank">Twitter</a>
@@ -66,9 +68,62 @@
           <a href="https://twitter.com/washira_co" target="_blank">twitter</a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/company/washira" target="_blank">linkedin</a>
+          <a href="https://www.linkedin.com/company/washira" target="_blank"
+            >linkedin</a
+          >
         </li>
       </ul>
+    </div>
+
+    <div>
+      <h2>法人情報<small>Company</small></h2>
+      <table>
+        <tr>
+          <th>会社名</th>
+          <td>合同会社わしら</td>
+        </tr>
+        <tr>
+          <th>会社名(英語)</th>
+          <td>Washira LLC</td>
+        </tr>
+        <tr>
+          <th>所在地</th>
+          <td>
+            大阪府大阪市北区梅田１丁目１－３大阪駅前第３ビル２９階１－１－１号室<br />
+            ※ 郵便物の送付のみ対応しております
+          </td>
+        </tr>
+        <tr>
+          <th>設立</th>
+          <td>2022年03月09日</td>
+        </tr>
+        <tr>
+          <th>代表社員</th>
+          <td>藤本 永一</td>
+        </tr>
+        <tr>
+          <th>問い合わせ</th>
+          <td>
+            リンク先のフォームよりご連絡ください<br />
+            <a
+              href="https://tayori.com/form/c787ef402de80671fcd7ddb66d6e27d987bb8210/"
+              target="_blank"
+              >合同会社わしら お問い合わせフォーム</a
+            >
+            ※ メール/電話でのお問い合わせは原則受け付けておりません。
+          </td>
+        </tr>
+        <tr>
+          <th>その他</th>
+          <td>
+            <a
+              href="https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=2120003021277"
+              target="_blank"
+              >国税庁法人番号公表サイト</a
+            >
+          </td>
+        </tr>
+      </table>
     </div>
   </div>
 </template>
