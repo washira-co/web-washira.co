@@ -48,9 +48,7 @@
         </p>
         <ul>
           <li>
-            <a href="https://github.com/eiichi-worker" target="_blank"
-              >GitHub</a
-            >
+            <a href="https://github.com/eiichi-worker" target="_blank">GitHub</a>
           </li>
           <li>
             <a href="https://twitter.com/EiichiCat" target="_blank">Twitter</a>
@@ -68,9 +66,10 @@
           <a href="https://twitter.com/washira_co" target="_blank">twitter</a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/company/washira" target="_blank"
-            >linkedin</a
-          >
+          <a href="https://www.linkedin.com/company/washira" target="_blank">linkedin</a>
+        </li>
+        <li>
+          <a href="https://github.com/washira-co" target="_blank">github</a>
         </li>
       </ul>
     </div>
