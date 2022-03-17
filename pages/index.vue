@@ -28,6 +28,13 @@
     </div>
 
     <div>
+      <h2>製品/サービス<small>Service</small></h2>
+      <ul>
+        <li>moreneko.club ※開発中</li>
+      </ul>
+    </div>
+
+    <div>
       <h2>正社員的なメンバー<small>Members</small></h2>
       <div></div>
       <h2>パート的なメンバー<small>Members</small></h2>
@@ -41,9 +48,7 @@
         </p>
         <ul>
           <li>
-            <a href="https://github.com/eiichi-worker" target="_blank"
-              >GitHub</a
-            >
+            <a href="https://github.com/eiichi-worker" target="_blank">GitHub</a>
           </li>
           <li>
             <a href="https://twitter.com/EiichiCat" target="_blank">Twitter</a>
@@ -57,8 +62,12 @@
     <div>
       <h2>SNS<small>sns</small></h2>
       <ul>
-        <li>[linkedin](https://www.linkedin.com/company/washira)</li>
-        <li>[twitter](https://twitter.com/washira_co)</li>
+        <li>
+          <a href="https://twitter.com/washira_co" target="_blank">twitter</a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/company/washira" target="_blank">linkedin</a>
+        </li>
       </ul>
     </div>
   </div>
