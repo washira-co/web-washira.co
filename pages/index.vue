@@ -2,7 +2,7 @@
   <div>
     <div>
       <h1>合同会社わしら<small>Wasira LLC</small></h1>
-      <!-- <img src="/img/logo/logo02.svg" width="400" /> -->
+      <img src="/img/logo/wasilogo01.png" width="400" />
     </div>
 
     <div>
