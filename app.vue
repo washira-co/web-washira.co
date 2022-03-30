@@ -1,7 +1,8 @@
 <template>
   <Head>
     <Title>合同会社わしら</Title>
-    <!-- <Link rel="icon" type="image/svg" href="/img/logo/logo02.svg" /> -->
+    <Link rel="icon" type="image/png" href="/img/logo/wasilogo03.png" />
+    <Link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
   </Head>
 
   <div>
