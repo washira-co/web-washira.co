@@ -23,6 +23,12 @@
       <ul>
         <li>猫を幸せにする事業</li>
         <li>IT部門委託事業</li>
+        <li>
+          →
+          <a href="https://techmesse.com/tech/1278" target="_blank"
+            >情報システム部門チームのアウトソーシング | TechMesse</a
+          >
+        </li>
         <li>IT部門内製化支援事業</li>
       </ul>
     </div>
@@ -67,6 +73,11 @@
         </li>
         <li>
           <a href="https://www.linkedin.com/company/washira" target="_blank">linkedin</a>
+        </li>
+        <li>
+          <a href="https://techmesse.com/corporation/865/tech" target="_blank"
+            >TechMesse</a
+          >
         </li>
         <li>
           <a href="https://github.com/washira-co" target="_blank">github</a>
