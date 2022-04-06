@@ -131,6 +131,8 @@
         <li>
           <a href="https://prtimes.co.jp/policy/" target="_blank">株式会社PR TIMES</a>
         </li>
+        <li>
+<a href="https://privacy.microsoft.com/ja-jp/privacystatement">Microsoft</a>        </li>
       </ul>
 
 
