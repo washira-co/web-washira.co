@@ -2,7 +2,11 @@
   <div>
     <div>
       <!-- <h1>合同会社わしら<small>Wasira LLC</small></h1> -->
-      <img src="/img/logo/wasilogo01.png" width="400" alt="合同会社わしら|Wasira LLC" />
+      <img
+        src="/img/logo/wasilogo01.png"
+        width="400"
+        alt="合同会社わしら|Wasira LLC"
+      />
     </div>
 
     <div>
@@ -64,7 +68,9 @@
         </p>
         <ul>
           <li>
-            <a href="https://github.com/eiichi-worker" target="_blank">GitHub</a>
+            <a href="https://github.com/eiichi-worker" target="_blank"
+              >GitHub</a
+            >
           </li>
           <li>
             <a href="https://twitter.com/EiichiCat" target="_blank">Twitter</a>
@@ -89,7 +95,9 @@
           <a href="https://twitter.com/washira_co" target="_blank">Twitter</a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/company/washira" target="_blank">linkedin</a>
+          <a href="https://www.linkedin.com/company/washira" target="_blank"
+            >linkedin</a
+          >
         </li>
         <li>
           <a href="https://techmesse.com/corporation/865/tech" target="_blank"
@@ -116,7 +124,9 @@
         <tr>
           <th>所在地</th>
           <td>
-            大阪府大阪市北区梅田１丁目１－３大阪駅前第３ビル２９階１－１－１号室<br />
+            530-0001<br />
+            大阪府大阪市北区梅田1丁目1-3<br />
+            大阪駅前第3ビル 29階1-1-1号室<br />
             ※ 郵便物の送付のみ対応しております
           </td>
         </tr>
@@ -166,6 +176,10 @@
 
 <script setup>
 const ctx = useRuntimeConfig();
+
+definePageMeta({
+  title: "トップページ",
+});
 
 // const { data } = await useFetch("/blog", {
 //   baseURL: ctx.baseURL,

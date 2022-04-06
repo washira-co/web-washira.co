@@ -17,7 +17,7 @@
         <tr>
           <th>所在地</th>
           <td>
-            大阪府大阪市北区梅田１丁目１－３大阪駅前第３ビル２９階１－１－１号室<br />
+            530-0001 大阪府大阪市北区梅田1丁目1-3 大阪駅前第3ビル 29階1-1-1号室
           </td>
         </tr>
         <tr>
@@ -168,6 +168,13 @@
 
 export default {
     async setup() {
+
+definePageMeta({
+  title: "プライバシーポリシー",
+});
+
+
+      /** パンくず */
         const breadcrumbList= [
     {
         name: "トップ",

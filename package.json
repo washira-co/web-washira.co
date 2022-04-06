@@ -12,8 +12,8 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "3.0.0-27447229.20f3171",
-    "sass": "^1.49.9",
+    "nuxt3": "3.0.0-27486226.7a70644",
+    "sass": "^1.49.11",
     "sass-loader": "^12.6.0"
   },
   "volta": {
