@@ -31,7 +31,7 @@
   </div>
 
   <div>
-    <h2>お問い合わせ</h2>
+    <h3>お問い合わせ</h3>
     <a
       href="https://tayori.com/form/c787ef402de80671fcd7ddb66d6e27d987bb8210/"
       target="_blank"
