@@ -27,28 +27,28 @@
 
 <script lang="ts">
 export default {
-  async setup() {
+  setup() {
     definePageMeta({
-      title: "事業内容",
-    });
+      title: '事業内容',
+    })
 
     /** パンくず */
     const breadcrumbList = [
       {
-        name: "トップ",
-        url: "/",
-        position: "1",
+        name: 'トップ',
+        url: '/',
+        position: '1',
       },
       {
-        name: "事業内容",
-        url: "/businesses/",
-        position: "2",
+        name: '事業内容',
+        url: '/businesses/',
+        position: '2',
       },
-    ];
+    ]
 
     return {
       breadcrumbList,
-    };
+    }
   },
-};
+}
 </script>

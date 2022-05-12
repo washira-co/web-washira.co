@@ -5,6 +5,11 @@ web-washira.co
 
 - <https://washira.co>
 
+HTMLテンプレート
+---
+
+- [飲食店向け無料ホームぺージテンプレート | フリーホームぺージ.net](https://free-hp.net/restaurant/re_001/)
+
 計測系まとめ
 ---
 

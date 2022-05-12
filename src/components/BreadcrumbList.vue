@@ -2,6 +2,7 @@
   <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
     <li
       v-for="item in list"
+      :key="item.position"
       itemprop="itemListElement"
       itemscope
       itemtype="https://schema.org/ListItem"
@@ -16,8 +17,8 @@
 
 <script lang="ts">
 export default {
-  props: ["list"],
-};
+  props: ['list'],
+}
 </script>
 
 <style lang="scss">
@@ -35,13 +36,13 @@ export default {
 
 .breadcrumb li:after {
   /* >を表示*/
-  content: ">";
+  content: '>';
   padding: 0 0.2em;
   color: #555;
 }
 
 .breadcrumb li:last-child:after {
-  content: "";
+  content: '';
 }
 
 .breadcrumb li a {

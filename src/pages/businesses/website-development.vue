@@ -7,8 +7,7 @@
     <h2>WEBサイト制作/運用</h2>
     <h3>作るから運用し、成果を目指すWEBサイト制作</h3>
     <p>
-      なぜ、WEBサイトを持つのか、持ったあとどう運用していくのか?
-      きちんと成果は出ているのか?<br />
+      なぜ、WEBサイトを持つのか、持ったあとどう運用していくのか? きちんと成果は出ているのか?<br />
       作るから成果が出るまでを、「内製チーム」のように進めていきます。<br />
       製作は、請負契約でコスト感や納期感にあわせて制作/リリースを行います。<br />
       リリース後は、準委任契約で、サイトの運用/カイゼンや効果測定などサポートさせて頂くことも可能です。<br />
@@ -27,15 +26,12 @@
       allowfullscreen="true"
       mozallowfullscreen="true"
       webkitallowfullscreen="true"
-    ></iframe>
+    />
   </div>
 
   <div>
     <h3>お問い合わせ</h3>
-    <a
-      href="https://tayori.com/form/c787ef402de80671fcd7ddb66d6e27d987bb8210/"
-      target="_blank"
-    >
+    <a href="https://tayori.com/form/c787ef402de80671fcd7ddb66d6e27d987bb8210/" target="_blank">
       <button>お問い合わせはこちら</button>
     </a>
   </div>
@@ -43,35 +39,35 @@
 
 <script lang="ts">
 export default {
-  async setup() {
+  setup() {
     definePageMeta({
-      title: "WEBサイト制作/運用",
-    });
+      title: 'WEBサイト制作/運用',
+    })
 
     /** パンくず */
     const breadcrumbList = [
       {
-        name: "トップ",
-        url: "/",
-        position: "1",
+        name: 'トップ',
+        url: '/',
+        position: '1',
       },
       {
-        name: "事業内容",
-        url: "/businesses/",
-        position: "2",
+        name: '事業内容',
+        url: '/businesses/',
+        position: '2',
       },
       {
-        name: "WEBサイト制作/運用",
-        url: "/businesses/website-development/",
-        position: "3",
+        name: 'WEBサイト制作/運用',
+        url: '/businesses/website-development/',
+        position: '3',
       },
-    ];
+    ]
 
     return {
       breadcrumbList,
-    };
+    }
   },
-};
+}
 </script>
 
 <style lang="scss">
