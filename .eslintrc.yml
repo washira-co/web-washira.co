@@ -1,0 +1,28 @@
+env:
+  browser: true
+  es2021: true
+  node: true
+
+extends:
+  - 'plugin:vue/vue3-recommended'
+  - 'eslint:recommended'
+  - '@vue/typescript/recommended'
+  - '@nuxtjs/eslint-config-typescript'
+  - '@vue/prettier'
+
+plugins:
+  - vue
+  - '@typescript-eslint'
+
+parserOptions:
+  parser": '@typescript-eslint/parser'
+  ecmaVersion: 13
+  sourceType: module
+  project": './tsconfig.json'
+
+rules:
+  'vue/no-multiple-template-root': 'off'
+  'vue/multi-word-component-names':
+    - error
+    - ignores:
+        - index
