@@ -1,4 +1,4 @@
-import { defineNuxtConfig } from 'nuxt3'
+import { defineNuxtConfig } from 'nuxt'
 
 // .envまたは環境変数から設定値の読み込み
 const { BASE_URL, API_KEY } = process.env

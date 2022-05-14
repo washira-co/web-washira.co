@@ -10,14 +10,12 @@
     "npm": "👹 NPMは禁止です。「YARN」を使ってください。"
   },
   "scripts": {
-    "dev": "yarn & nuxt dev",
-    "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "node .output/server/index.mjs",
-    "preview": "nuxt preview"
+    "dev": "yarn & nuxi dev",
+    "build": "nuxi build",
+    "preview": "nuxi preview"
   },
   "devDependencies": {
-    "nuxt3": "^3.0.0-rc.3",
+    "nuxt": "^3.0.0-rc.3",
     "sass": "^1.51.0",
     "sass-loader": "^12.6.0",
     "vue-gtag": "^2.0.1"
