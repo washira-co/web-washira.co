@@ -29,6 +29,7 @@
             <a
               class="btn font-weight-bold"
               href="https://tayori.com/form/c787ef402de80671fcd7ddb66d6e27d987bb8210/"
+              target="_blank"
               role="button"
               >お問い合わせ</a
             >
