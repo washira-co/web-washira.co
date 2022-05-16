@@ -109,6 +109,12 @@
             <li>
               <a href="https://twitter.com/EiichiCat" target="_blank">Twitter</a>
             </li>
+            <li>
+              <a href="https://www.instagram.com/eiichicat/" target="_blank">Instagram</a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/eiichi-fujimoto/" target="_blank">Linkedin</a>
+            </li>
           </ul>
         </div>
       </div>
